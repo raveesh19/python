@@ -35,6 +35,7 @@ email_list={
         'samarth':'byatnalsamarth@gmail.com',
         'ravi':'raveesh0319@gmail.com',
         'tanish':'rtanish791@gmail.com'
+        'tarun':'tarunramam@gmail.com'
 }
 
 
